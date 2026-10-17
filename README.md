@@ -1,4 +1,4 @@
 
-# Research Mathematics in Lean 4 [![Continuous Integration](https://github.com/ddkempiii/Formal-Math-Research/actions/workflows/ci.yml/badge.svg)](https://github.com/ddkempiii/Formal-Math-Research/actions/workflows/ci.yml)
+# Research Mathematics in Lean 4 [![Lean Action CI](https://github.com/ddkempiii/Formal-Math-Research/actions/workflows/lean_action_ci.yml/badge.svg)](https://github.com/ddkempiii/Formal-Math-Research/actions/workflows/lean_action_ci.yml)
 
 
